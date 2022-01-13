@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.active {
+  filter: invert(62%) sepia(94%) saturate(372%) hue-rotate(111deg)
+    brightness(91%) contrast(92%);
+}
+.cursor-pointer{
+    cursor: pointer;
+}
